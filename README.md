@@ -1,9 +1,3 @@
-# 💫 Обо мне:
-Я - начинающий разработчик с опытом работы в области Blockchain технологий, Frontend и немного Backend разработки. За последние годы я получил образование, проходил стажировку в компаниях и работал, где приобрел опыт работы в команде и улучшил навыки в создании сайтов, а также смарт-контрактов с использованием Blockchain технологий.
-
-[![](https://visitcount.itsvg.in/api?id=HeisPovedim&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
 ## 🌐 Соц. сети:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@sanmanjiro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mk.larionov) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Revilli0N) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rev_illarion) 
 
